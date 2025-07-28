@@ -1,99 +1,43 @@
-<!-- README.md for GitHub Profile -->
+<!-- 🌟 Rishi Kethan Reddy | GitHub Profile README 🌟 -->
 
-<!-- Hero Banner -->
+<!-- ✨ Custom Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=43C6AC&center=true&vCenter=true&multiline=true&width=1000&lines=Hi%2C+I'm+Rishi+Kethan+Reddy!;AI+Enthusiast+%7C+Cinephile+%7C+Creative+Thinker;Let's+Build+Something+Incredible+Together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=43C6AC&center=true&vCenter=true&width=700&lines=Hi+I'm+Rishi+Kethan+Reddy;AI+Researcher+%7C+Full+Stack+Developer+%7C+Tech+Enthusiast;Always+building%2C+always+learning!" alt="Typing Header">
 </p>
-
-<!-- Parallax / Gradient Background (simulated for web markdown) -->
-<div align="center" style="background: linear-gradient(to right, #191654, #43C6AC); padding: 20px; border-radius: 20px;">
-  <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="150" style="border-radius: 50%; border: 3px solid white;" />
-  <h1 style="color:white;">Rishi Kethan Reddy</h1>
-  <h4 style="color:white;">AI Enthusiast | Cinephile | Building useful AI Projects</h4>
-</div>
 
 ---
 
-<!-- About -->
-### <div align="center">🧠 About Me</div>
-
+<!-- 🔗 Social Badges (mobile-friendly) -->
 <p align="center">
-🎓 I'm currently pursuing an Integrated M.Tech in <strong>Data Science</strong> @ <strong>VIT Vellore</strong> <br>
-🌐 I love exploring new tech on the internet and building things that help others <br>
-🎥 Cinephile | 🌿 Love making bonsai trees <br>
-💬 "Everyone keeps telling me how my story is supposed to go… <strong>Nah imma do my own thing</strong>" - Miles Morales
+  <a href="https://www.linkedin.com/posts/rishikethanreddy_vitmate-vitvellore-studentlife-activity-7344405963434561537-5IVq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:palarishikethanreddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/prkr29?s=08"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/igobyrishi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- Skills -->
-### <div align="center">💻 Tech Stack</div>
+### 🧠 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,firebase,mysql,git,github,figma" style="border-radius: 50%;" />
-</p>
+name: Rishi Kethan Reddy
+student: Integrated M.Tech in Data Science @ VIT Vellore
+interests:
+  - AI-Powered Innovation
+  - Full Stack & Cloud
+  - Open Source Projects
+hobbies:
+  - 🎬 Watching Movies
+  - 🌱 Growing Bonsai Trees
+🔧 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&perline=6&theme=dark" /><br> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,firebase,supabase&perline=6&theme=dark" /><br> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vercel&perline=6&theme=dark" /> </p>
+📌 Featured Projects Showcase
+<div align="center"> <table> <tr> <td align="center" width="300"> <a href="https://github.com/rishikethanreddy/vitmate"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishikethanreddy&repo=vitmate&theme=radical&border_color=43C6AC" /> </a> </td> <td align="center" width="300"> <a href="https://github.com/rishikethanreddy/rock-irrigation"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishikethanreddy&repo=rock-irrigation&theme=radical&border_color=43C6AC" /> </a> </td> </tr> </table> </div>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishikethanreddy&show_icons=true&theme=github_dark&hide_border=true" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikethanreddy&theme=github-dark&hide_border=true" width="47%" /> </p>
+🧠 Quote I Live By
+"Everyone keeps telling me how my story is supposed to go… Nah imma do my own thing"
+— Miles Morales
 
----
-
-<!-- Projects -->
-### <div align="center">🚀 Featured Projects</div>
-
-<div align="center">
-
-<!-- Scrollable Project Showcase -->
-<table>
-<tr>
-<td align="center" width="450px">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishikethanreddy&repo=VITmate&theme=react&border_color=43C6AC" />
-</td>
-<td align="center" width="450px">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishikethanreddy&repo=ROCK&theme=react&border_color=43C6AC" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- Social Links -->
-### <div align="center">📬 Connect With Me</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/posts/rishikethanreddy_vitmate-vitvellore-studentlife-activity-7344405963434561537-5IVq?utm_source=share&utm_medium=member_android&rcm=ACoAAEY6MwUB848UuPG_XSjNvTmMNNSsW5vvqRc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-43C6AC?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/prkr29?s=08" target="_blank">
-    <img src="https://img.shields.io/badge/X-191654?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/igobyrishi?utm_source=qr&igsh=MXViOHVvOHJpbjZpbQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:palarishikethanreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- GitHub Stats -->
-### <div align="center">📊 GitHub Stats</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikethanreddy&theme=github_dark&show_icons=true&border_color=43C6AC" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikethanreddy&layout=compact&theme=github_dark&border_color=43C6AC" height="180"/>
-</p>
-
----
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishikethanreddy&label=Profile%20Views&color=43C6AC&style=flat-square" alt="Visitor Counter" />
-</p>
-
----
-
-<!-- Footer -->
-<p align="center" style="font-size:12px;">
-  ✨ Made with 💙 and a hint of chaos ✨
-</p>
+👁️‍🗨️ Visitor Counter
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishikethanreddy&label=Visitors&color=43C6AC&style=flat-square" /> </p>
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 14px;"> ✨ Built with love, bonsai & bytes ✨ </p>
