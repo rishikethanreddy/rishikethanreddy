@@ -2,7 +2,7 @@
 
 <!-- 🔷 Top SVG Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Rishi%20Kethan%20Reddy&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=270&color=gradient&text=Rishi%20Kethan%20Reddy&fontSize=70" />
 
 
   <p align="center">
