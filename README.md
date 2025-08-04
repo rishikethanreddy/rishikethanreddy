@@ -1,13 +1,9 @@
 <!-- GitHub Profile for Rishi Kethan Reddy -->
 
 <!-- 🔷 Top SVG Wave -->
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=43C6AC&height=120&section=header" width="100%" />](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Rishi%20Kethan%20Reddy)
-
-
-
-
 <div align="center">
-  <h1 class="animated-underline">Rishi Kethan Reddy</h1>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Rishi%20Kethan%20Reddy&fontSize=50" />
+
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=22&duration=2000&pause=1000&color=43C6AC&center=true&vCenter=true&width=435&lines=AI+Researcher;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
@@ -50,7 +46,7 @@
   <h3 style="font-weight:bold; color:#ffffff;">Hobbies</h3>
 
   <p style="color: #ADBAC7;" align="center">
-    Watching movies 🎬 | Making bonsai trees 🌱 | Playing Cricket 🏏
+    Watching movies | Making bonsai trees | Playing Cricket
   </p>
 
   <br>
@@ -58,7 +54,7 @@
   <a href="https://github.com/RishiKethanReddy">
     <img src="https://github-readme-stats.vercel.app/api?username=RishiKethanReddy&show_icons=true&theme=tokyonight&hide=stars&count_private=true&hide_border=true&bg_color=0D1117&title_color=43C6AC&icon_color=43C6AC&text_color=C9D1D9" height="170" alt="GitHub Stats"/>
   </a>
-
+<h2></h2>
   <h3 style="font-weight:bold; color:#ffffff;">Let's Connect</h3>
 
   <p align="center">
@@ -76,6 +72,4 @@
     </a>
   </p>
 </div>
-
-<!-- 🔷 Bottom SVG Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.svg" width="100%" />
+</div>
