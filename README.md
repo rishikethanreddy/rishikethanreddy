@@ -1,7 +1,9 @@
 <!-- GitHub Profile for Rishi Kethan Reddy -->
 
 <!-- 🔷 Top SVG Wave -->
-<img src="https://cdn.jsdelivr.net/gh/andreasbm/readme@master/assets/waves/wave1.svg" width="100%" />
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=43C6AC&height=120&section=header" width="100%" />](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Rishi%20Kethan%20Reddy)
+
+
 
 
 <div align="center">
