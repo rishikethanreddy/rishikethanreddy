@@ -61,7 +61,7 @@
     <a href="https://www.linkedin.com/in/rishikethanreddy" target="_blank">
       <img src="https://img.icons8.com/color/96/linkedin.png" width="40" alt="LinkedIn"/>
     </a>&nbsp;&nbsp;
-    <a href="https://x.com/prkr29?s=08" target="_blank">
+    <a href="https://x.com/igobyrishi?s=08" target="_blank">
       <img src="https://img.icons8.com/ios-glyphs/90/ffffff/twitterx.png" width="40" alt="X"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/igobyrishi" target="_blank">
